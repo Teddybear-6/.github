@@ -1,4 +1,4 @@
-![image](https://github.com/Teddybear-6/.github/assets/130436427/2fe6ce27-9b57-45fb-b038-bce37b609263)# 프로젝트 명 : 퇴근길 (Toe-Geun-Gil)
+# 프로젝트 명 : 퇴근길 (Toe-Geun-Gil)
 
 ## 퇴근길 소개
 **퇴근 후에 뭐할지 고민하는 직장인들을 타겟으로 한 취미 플랫폼 클래스 사이트**
