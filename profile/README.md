@@ -17,7 +17,7 @@
 - 명칭 : 퇴근길
 - 개발 인원 : 6명
 - 개발 기간 : 2023.09.01~2023.09.24
-- 배포 사이트 : toegeungil.shop
+- 배포 사이트 : [toegeungil.shop](http://toegeungil.shop/)
 
 ## 팀 소개
 - Teddybear-6 <br/>
