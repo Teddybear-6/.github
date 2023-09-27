@@ -1,4 +1,4 @@
-# 프로젝트 명 : 퇴근길 (Toe-Geun-Gil)
+![image](https://github.com/Teddybear-6/.github/assets/130436427/2fe6ce27-9b57-45fb-b038-bce37b609263)# 프로젝트 명 : 퇴근길 (Toe-Geun-Gil)
 
 ## 퇴근길 소개
 **퇴근 후에 뭐할지 고민하는 직장인들을 타겟으로 한 취미 플랫폼 클래스 사이트**
@@ -17,6 +17,7 @@
 - 명칭 : 퇴근길
 - 개발 인원 : 6명
 - 개발 기간 : 2023.09.01~2023.09.24
+- 배포 사이트 : toegeungil.shop
 
 ## 팀 소개
 - Teddybear-6 <br/>
