@@ -17,7 +17,7 @@
 - 개발 인원 &nbsp;:&nbsp; 6명 (Team_ Teddybear-6)
 - 개발 기간 &nbsp;:&nbsp; 2023.09.01 ~ 2023.09.24
 - 배포 사이트  &nbsp;:&nbsp; [toegeungil.shop](http://toegeungil.shop/)
-- [퇴근길(Toe-Geun-Gil) PPT.pdf](https://github.com/Teddybear-6/.github/files/12898321/PPt.pdf)
+- [퇴근길(Toe-Geun-Gil) PPT.pdf](https://github.com/Teddybear-6/.github/files/12898340/PPT.pdf)
 
 <br>
 
